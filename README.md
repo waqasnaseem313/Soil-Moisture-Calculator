@@ -28,7 +28,7 @@ A Progressive Web App for calculating soil moisture content from weight measurem
 ## 🚀 Quick Start
 
 1. **Live Demo**:  
-   [Use the app now](https://your-username.github.io/soil-moisture-calculator/)
+   [Use the app now](https://waqasnaseem313.github.io/soil-moisture-calculator/)
 
 2. **Install**:
    - **Android/Chrome**: Tap "Install" in browser
